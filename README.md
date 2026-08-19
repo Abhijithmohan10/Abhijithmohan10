@@ -1,81 +1,74 @@
-@@ -1,21 +1,59 @@
-``````
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |==========='
-``````
-```
-              _
-             | |
-             | |===( )   //////
-             |_|   |||  | o o|
-                    ||| ( c  )                  ____
-                     ||| \= /                  ||   \_
-                      ||||||                   ||     |
-                      ||||||                ...||__/|-"
-                      ||||||             __|________|__
-                        |||             |______________|
-                        |||             || ||      || ||
-                        |||             || ||      || ||
-------------------------|||-------------||-||------||-||-------
-                        |__>            || ||      || ||
+# Hi there, I'm Abhijith Mohan! 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Full-Stack+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+</div>
 
-     hit any key to continue
-```
+---
 
+### 🚀 About Me
 
-### $ AGENTIC  •  TOOL-CALLING  •  AI SYSTEMS
+- 🔭 I’m currently working on building scalable web applications & software solutions.
+- 🌱 I’m currently learning advanced cloud architecture & modern web technologies.
+- 👯 I’m looking to collaborate on open-source projects & innovative software ideas.
+- 💬 Ask me about **Full-Stack Development, Software Engineering, and Web Technologies**.
+- ⚡ Fun fact: I love turning complex problems into simple, elegant code!
 
-Hi, I'm Kautuk
+---
 
-I like building **LLM-powered systems that actually do things** — especially around **tool calling, agents, and end-to-end execution**, not just chat.
+### 🛠️ Tech Stack & Tools
 
-### What I'm exploring
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Tool-augmented LLMs**: Designing schemas, orchestration layers, and safety rails that make tool calling reliable at scale.  
-- **Agentic workflows**: Multi-step plans, background execution, and feedback loops where models can observe, remember, and act.  
-- **Evaluation & observability**: How to measure agent quality beyond accuracy — latency, robustness, user trust, and "time-to-done".  
-- **Human-in-the-loop control**: escalate UX patterns so users feel in control while agents do the grind.
+#### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### What I'm building
+#### 🛢️ Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **[Conscious Engines](https://consciousengines.com)** – exploring the boundaries of agentic AI, tool orchestration, and autonomous systems that learn and adapt.  
-- **[Felix](https://heyfelix.app)** – a **proactive AI companion** that sits inside your workflow, watches for patterns and commitments, and actually execute tasks without user intervention.  
+---
 
-### Current focus
+### 📊 GitHub Stats
 
-- **Better agent memory & context**: Turning raw event streams into structured memories agents can safely act on.  
-- **Actionable > informational**: Every model output should come with a next action, not just a paragraph of text.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhijith's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</div>
 
-### How I think about AI agents
+<br />
 
-- **Observation without action is just surveillance. Action without observation is brittle automation.**  
-- The interesting space is in the middle: agents that **watch just enough**, propose **concrete, reversible actions**, and **learn from what users do**.  
-- Great AI doesn't feel like a chatbot — it feels like someone quietly **watching your back** and taking care of the boring parts.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-### Stack I reach for
+---
 
-- **Languages**: TypeScript, Python, Rust, C++
-- **Frameworks**: Full stack, I kinda do everything
+### 📬 Connect with Me
 
-### If you want to jam
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhijith-mohan-334a20243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhijithmohan565@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-- **Interested in agents that actually execute and take "Agency", not just reason about them?**  
-- Reach out via [Twitter](https://twitter.com/kautukkundan) / [LinkedIn](https://linkedin.com/in/kautuk_kundan) – I'm always up for swapping notes on **tool calling, evaluators, and agent architectures**.
+<br />
+
+<div align="center">
+  <sub>Designed with ❤️ by Abhijith Mohan</sub>
+</div>
