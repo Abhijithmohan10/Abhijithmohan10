@@ -1,42 +1,118 @@
-from pathlib import Path
-import math, random, zipfile, os, textwrap
-
-base = Path("/mnt/data/abhijith-github-profile")
-assets = base / "assets"
-base.mkdir(exist_ok=True)
-assets.mkdir(exist_ok=True)
-
-readme = r'''# 👋 Hi there, I'm Abhijith Mohan!
+# Hi there, I'm Abhijith Mohan! 👋
 
 <div align="center">
-
-<img src="./assets/anime-banner.svg" width="100%" alt="Abhijith Mohan animated developer banner"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&height=60&lines=MCA+STUDENT;SOFTWARE+DEVELOPER;FULL-STACK+ENTHUSIAST;PROBLEM+SOLVER;TECH+EXPLORER" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abhijithmohan10&label=Profile%20Views&color=2E90FA&style=for-the-badge" alt="Profile views"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vCenter=true&width=500&height=50&lines=MCA+STUDENT;Software+Developer;Full-Stack+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-```javascript
-const abhijith = {
-  name: "Abhijith Mohan",
-  username: "Abhijithmohan10",
-  role: "Software Developer",
-  education: "MCA Student",
-  focus: [
-    "Full-Stack Development",
-    "Artificial Intelligence",
-    "Cloud Computing",
-    "Modern Web Technologies"
-  ],
-  mindset: "Build → Learn → Improve → Repeat"
-};
+- 🔭 I’m currently working on building scalable web applications & software solutions.
+- 🌱 I’m currently learning advanced cloud architecture & modern web technologies.
+- 👯 I’m looking to collaborate on open-source projects & innovative software ideas.
+- 💬 Ask me about **Full-Stack Development, Software Engineering, and Web Technologies**.
+- ⚡ Fun fact: I love turning complex problems into simple, elegant code!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🛢️ Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+🎨
+             ┌───────────────────────┐
+             │       ABHIJITH        │
+             │          ✦            │
+             │   SOFTWARE DEVELOPER  │
+             └───────────┬───────────┘
+                         │
+              ┌──────────┴──────────┐
+              │                     │
+           CODE                 CREATE
+              │                     │
+              └──────────┬──────────┘
+                         │
+                       BUILD
+
+🚀 Featured Projects
+
+<div align="center">
+
+🏏 CricketVision AI
+
+AI-powered cricket player analysis platform
+
+React Spring Boot MySQL AI
+
+♻️E- Waste Management
+
+Smart E-Waste Management Platform
+
+React Spring Boot MySQL REST API
+
+💼 Developer Portfolio
+
+Interactive 3D developer portfolio
+
+React Three.js GSAP WebGL
+
+</div>
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhijith-mohan-334a20243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhijithmohan565@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+<div align="center">
+
+💻 Code. 🚀 Build. ✨ Innovate.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E90FA&height=120&section=footer"/>
+
+<sub>Designed & crafted with ❤️ by <b>Abhijith Mohan</b></sub>
+
+</div>
