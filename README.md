@@ -1,7 +1,7 @@
 # Hi there, I'm Abhijith Mohan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Full-Stack+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vCenter=true&width=500&height=50&lines=MCA+STUDENT;Software+Developer;Full-Stack+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
 
 ---
